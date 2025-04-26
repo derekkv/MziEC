@@ -9,6 +9,9 @@ Una aplicación móvil desarrollada con [React Native](https://reactnative.dev/)
 - Lectura sin necesidad de conexión constante (descarga opcional).
 - Soporte para temas claro y oscuro.
 
+## 📥 Instalación
+Descarga e instala el archivo .apk del repo.
+
 ## 🗂️ Fuente de los libros
 
 Los libros utilizados en esta aplicación provienen del sitio web oficial del Ministerio de Educación del Ecuador:
